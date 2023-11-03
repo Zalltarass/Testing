@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+    font-family: inter;
+    src: url('font/Inter/Inter-VariableFont_slnt,wght.ttf');
+  }
+  
+  @font-face {
+    font-family: sfuitext;
+    src: url('font/SF-UI-Text/SFUIText-Regular.ttf');
+  }
+  
+  @font-face {
+    font-family: poppins;
+    src: url('font/Poppins/Poppins-Regular.ttf');
+  }
